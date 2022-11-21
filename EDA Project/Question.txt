@@ -1,0 +1,1 @@
+Pick any dataset of your interest. Provide major insights/patterns that you can offer in a visual format (graphs or tables) (without using the automation library ). Upload project on GitHub & Share the link in the class on 20 Nov. 

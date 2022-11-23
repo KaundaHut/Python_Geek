@@ -1,1 +1,0 @@
-Build Simple Linear Regression model and evaluate it
